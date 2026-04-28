@@ -1,0 +1,16 @@
+skz_url = "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stray_Kids"
+twice_url = "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Twice"
+itzy_url = "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Itzy"
+nmixx_url = "https://en.wikipedia.org/wiki/Nmixx"
+got7_url = "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Got7"
+xdinary_url = "https://en.wikipedia.org/wiki/Xdinary_Heroes#Awards_and_nominations"
+day_6 = "https://en.wikipedia.org/wiki/Day6#Awards_and_nominations"
+twopm_url = "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_2PM"
+
+EXPLANATION: All the links above lead to Wikipedia pages of awards won or 
+nominated by kpop groups. The reason I chose these is because these groups
+are under the same record label: JYP Entertainment. They are also the top
+ten most popular groups of the label. Thus, I selected them in hopes of 
+seeing which group earns the most awards for the label, how many awards 
+certain groups were nominated for, and if girl groups do better than boy 
+groups.
